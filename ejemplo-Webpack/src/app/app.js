@@ -1,0 +1,1 @@
+import './component/principal/module.js';
